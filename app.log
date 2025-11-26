@@ -1,0 +1,5 @@
+2025-11-26 19:39:23,911 - INFO - Starting extraction: temp_file.csv (CSV)
+2025-11-26 19:39:23,919 - INFO - Extraction successful
+2025-11-26 19:39:23,919 - INFO - Creating DB engine
+2025-11-26 19:39:25,336 - INFO - Loading data into table: classification_data
+2025-11-26 19:39:31,090 - INFO - Data loaded successfully
